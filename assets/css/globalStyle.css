@@ -1,0 +1,3 @@
+.btn.btn-success{
+        @apply bg-teal-600 rounded text-white;        
+}
